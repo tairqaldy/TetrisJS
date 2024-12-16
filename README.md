@@ -1,4 +1,3 @@
-```markdown
 # 🎮 TetrisJS 🎉
 
 A **simple yet fun** Tetris game written entirely in **one file** — combining **HTML**, **CSS**, and **JavaScript**. This project is perfect for anyone who wants to dive into the basics of web-based game development, with clear inline comments to guide you through the code.
@@ -34,7 +33,6 @@ A **simple yet fun** Tetris game written entirely in **one file** — combining 
 
 ```plaintext
 tetris.html   // The only file you need! Includes HTML, CSS, and JavaScript.
-```
 
 ---
 

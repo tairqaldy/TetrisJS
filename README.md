@@ -33,7 +33,7 @@ A **simple yet fun** Tetris game written entirely in **one file** — combining 
 
 ```plaintext
 tetris.html   // The only file you need! Includes HTML, CSS, and JavaScript.
-
+```
 ---
 
 ## 🧰 Git Instructions
